@@ -1,2 +1,3 @@
 test a
 test confilict b
+test confilict a
